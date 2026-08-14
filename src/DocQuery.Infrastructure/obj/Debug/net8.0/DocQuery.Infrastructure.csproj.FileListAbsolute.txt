@@ -1,0 +1,11 @@
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\bin\Debug\net8.0\DocQuery.Infrastructure.deps.json
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\bin\Debug\net8.0\DocQuery.Infrastructure.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\bin\Debug\net8.0\DocQuery.Infrastructure.pdb
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.AssemblyInfo.cs
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\refint\DocQuery.Infrastructure.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\DocQuery.Infrastructure.pdb
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Infrastructure\obj\Debug\net8.0\ref\DocQuery.Infrastructure.dll

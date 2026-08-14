@@ -1,0 +1,11 @@
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\bin\Debug\net8.0\DocQuery.Core.deps.json
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\bin\Debug\net8.0\DocQuery.Core.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\bin\Debug\net8.0\DocQuery.Core.pdb
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.AssemblyInfoInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.AssemblyInfo.cs
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\refint\DocQuery.Core.dll
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.pdb
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\ref\DocQuery.Core.dll
