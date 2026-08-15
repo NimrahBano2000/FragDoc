@@ -12,6 +12,7 @@ C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\DocQuery.Api.Ass
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\DocQuery.Api.AssemblyInfo.cs
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\DocQuery.Api.csproj.CoreCompileInputs.cache
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\DocQuery.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\DocQuery.Api.sourcelink.json
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

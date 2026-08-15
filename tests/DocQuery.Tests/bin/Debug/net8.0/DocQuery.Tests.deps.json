@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "DocQuery.Tests/1.0.0": {
         "dependencies": {
+          "DocQuery.Core": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "xunit": "2.5.3"
         },
@@ -340,6 +341,14 @@
             "fileVersion": "2.5.3.0"
           }
         }
+      },
+      "DocQuery.Core/1.0.0": {
+        "runtime": {
+          "DocQuery.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -432,6 +441,11 @@
       "sha512": "sha512-w9eGCHl+gJj1GzZSf0VTzYPp/gv4fiUDkr+yR7/Wv9/ucO2CHltGg2TnyySLFjzekkjuxVJZUE+tZyDNzryJFw==",
       "path": "xunit.extensibility.execution/2.5.3",
       "hashPath": "xunit.extensibility.execution.2.5.3.nupkg.sha512"
+    },
+    "DocQuery.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

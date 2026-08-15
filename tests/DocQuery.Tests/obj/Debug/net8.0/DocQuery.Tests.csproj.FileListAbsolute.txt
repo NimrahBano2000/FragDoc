@@ -1,3 +1,4 @@
+C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_DocQuery.Tests
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\testhost.dll
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -86,11 +87,14 @@ C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\zh-Hans\Micr
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\DocQuery.Core.dll
+C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\bin\Debug\net8.0\DocQuery.Core.pdb
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.csproj.AssemblyReference.cache
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.AssemblyInfoInputs.cache
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.AssemblyInfo.cs
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.sourcelink.json
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.E033174E.Up2Date
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\DocQuery.Tests.dll
 C:\Users\Syeda Nimrah\FragDoc\tests\DocQuery.Tests\obj\Debug\net8.0\refint\DocQuery.Tests.dll

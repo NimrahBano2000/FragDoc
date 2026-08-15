@@ -5,6 +5,7 @@ C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.G
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.AssemblyInfoInputs.cache
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.AssemblyInfo.cs
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.csproj.CoreCompileInputs.cache
+C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.sourcelink.json
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.dll
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\refint\DocQuery.Core.dll
 C:\Users\Syeda Nimrah\FragDoc\src\DocQuery.Core\obj\Debug\net8.0\DocQuery.Core.pdb
