@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DocQuery.Core\DocQuery.Core.csproj" />
+  </ItemGroup>
+
 </Project>

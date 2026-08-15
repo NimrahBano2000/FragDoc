@@ -4,7 +4,9 @@ C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\Playground.runt
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\Playground.dll
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\Playground.pdb
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\DocQuery.Core.dll
+C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\DocQuery.Infrastructure.dll
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\DocQuery.Core.pdb
+C:\Users\Syeda Nimrah\FragDoc\tools\Playground\bin\Debug\net10.0\DocQuery.Infrastructure.pdb
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\obj\Debug\net10.0\Playground.csproj.AssemblyReference.cache
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\obj\Debug\net10.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Syeda Nimrah\FragDoc\tools\Playground\obj\Debug\net10.0\Playground.AssemblyInfoInputs.cache

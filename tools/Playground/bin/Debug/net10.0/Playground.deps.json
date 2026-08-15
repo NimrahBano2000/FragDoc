@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v10.0": {
       "Playground/1.0.0": {
         "dependencies": {
-          "DocQuery.Core": "1.0.0"
+          "DocQuery.Core": "1.0.0",
+          "DocQuery.Infrastructure": "1.0.0"
         },
         "runtime": {
           "Playground.dll": {}
@@ -17,6 +18,17 @@
       "DocQuery.Core/1.0.0": {
         "runtime": {
           "DocQuery.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DocQuery.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DocQuery.Core": "1.0.0"
+        },
+        "runtime": {
+          "DocQuery.Infrastructure.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +43,11 @@
       "sha512": ""
     },
     "DocQuery.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocQuery.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

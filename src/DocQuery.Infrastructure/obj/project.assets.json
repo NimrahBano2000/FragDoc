@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DocQuery.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DocQuery.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DocQuery.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DocQuery.Core/1.0.0": {
+      "type": "project",
+      "path": "../DocQuery.Core/DocQuery.Core.csproj",
+      "msbuildProject": "../DocQuery.Core/DocQuery.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DocQuery.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Syeda Nimrah\\.nuget\\packages\\": {},
@@ -44,7 +63,11 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Core\\DocQuery.Core.csproj": {
+              "projectPath": "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Core\\DocQuery.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

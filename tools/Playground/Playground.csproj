@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\DocQuery.Core\DocQuery.Core.csproj" />
+    <ProjectReference Include="..\..\src\DocQuery.Infrastructure\DocQuery.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

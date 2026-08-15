@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/DocQuery.Core.dll": {}
         }
+      },
+      "DocQuery.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DocQuery.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DocQuery.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DocQuery.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../../src/DocQuery.Core/DocQuery.Core.csproj",
       "msbuildProject": "../../src/DocQuery.Core/DocQuery.Core.csproj"
+    },
+    "DocQuery.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../src/DocQuery.Infrastructure/DocQuery.Infrastructure.csproj",
+      "msbuildProject": "../../src/DocQuery.Infrastructure/DocQuery.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "DocQuery.Core >= 1.0.0"
+      "DocQuery.Core >= 1.0.0",
+      "DocQuery.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -66,6 +85,9 @@
           "projectReferences": {
             "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Core\\DocQuery.Core.csproj": {
               "projectPath": "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Core\\DocQuery.Core.csproj"
+            },
+            "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Infrastructure\\DocQuery.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Syeda Nimrah\\FragDoc\\src\\DocQuery.Infrastructure\\DocQuery.Infrastructure.csproj"
             }
           }
         }

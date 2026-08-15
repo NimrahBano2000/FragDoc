@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocQuery.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a132d2eef51bfaacd70c9b3d5139109242df4fb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50cfcbdc2ef3930fb9e48e4c7522b4e99d7617b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocQuery.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocQuery.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
