@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocQuery.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50cfcbdc2ef3930fb9e48e4c7522b4e99d7617b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca0b9ffd35e40c19f9a83b8e36782ada90224a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocQuery.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocQuery.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
