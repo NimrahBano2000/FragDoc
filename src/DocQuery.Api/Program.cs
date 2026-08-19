@@ -2,7 +2,8 @@ using DocQuery.Core;
 using DocQuery.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddSingleton(new LlmOptions());
+var llmOptions = builder.Configuration.GetSection("Llm").Get<LlmOptions>() ?? new LlmOptions();
+builder.Services.AddSingleton(llmOptions);
 builder.Services.AddSingleton<TextChunker>();
 builder.Services.AddSingleton<IEmbeddingClient, OllamaEmbeddingClient>();
 builder.Services.AddSingleton<IChatClient, OllamaChatClient>();

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.37507.1
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12023.21 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocQuery.Core", "src\DocQuery.Core\DocQuery.Core.csproj", "{4650C244-262B-4CE6-BC4B-0C89069BDC66}"
 EndProject
@@ -14,6 +14,19 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{07C2787E-EAC7-C090-1BA3-A61EC2A24D84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "tools\Playground\Playground.csproj", "{6AD43283-CD8D-4396-BC70-B8D9BE549CE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{5944223E-A958-4F62-90A5-12D3AC5931C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{2466444B-08B3-461F-A451-4F2D6B569632}"
+	ProjectSection(SolutionItems) = preProject
+		ci.yml = ci.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4769E82-580B-4A71-A05F-543FFAD72CCC}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		Dockerfile = Dockerfile
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +104,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6AD43283-CD8D-4396-BC70-B8D9BE549CE4} = {07C2787E-EAC7-C090-1BA3-A61EC2A24D84}
+		{2466444B-08B3-461F-A451-4F2D6B569632} = {5944223E-A958-4F62-90A5-12D3AC5931C3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2A64FECA-CD44-457E-B7F1-234EFA1257B0}
